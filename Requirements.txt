@@ -1,0 +1,6 @@
+langchain
+pymupdf
+transformers
+sentence-transformers
+chromadb
+huggingface_hub
