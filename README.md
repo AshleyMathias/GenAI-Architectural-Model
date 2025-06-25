@@ -1,0 +1,1 @@
+# GenAI_-Architectural-Model-
