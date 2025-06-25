@@ -25,12 +25,12 @@
 
 ## 📂 Project Structure
 - SurgiGuide/
-- │
-- ├── Instructions.pdf # Input medical instruction PDF
-- ├── surgiguides_db/ # ChromaDB vector storage
-- ├── genai_model4.py # Main RAG pipeline script
-- ├── requirements.txt # Python dependencies
-- └── README.md # You are here
+
+-- ├── Instructions.pdf # Input medical instruction PDF
+-- ├── surgiguides_db/ # ChromaDB vector storage
+-- ├── genai_model4.py # Main RAG pipeline script
+-- ├── requirements.txt # Python dependencies
+-- └── README.md # You are here
 
 ---
 
