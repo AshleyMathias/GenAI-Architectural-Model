@@ -65,5 +65,15 @@ you: What is abdominal surgery?
 
 📘 Surgiguide says:
 Abdominal surgery is a procedure involving the abdominal cavity. It includes operations on organs such as the stomach, intestines, liver, or kidneys.
+```
 
+---
+
+## 📦 Installation
+
+``` bash
+git clone https://github.com/yourusername/surgiguide.git
+cd surgiguide
+pip install -r requirements.txt
+```
 
