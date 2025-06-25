@@ -95,4 +95,11 @@ To exit, type: exit or quit.
 pip install langchain pymupdf transformers sentence-transformers chromadb
 ```
 
+---
+
+<p align="center">
+  Made with ❤️ for patients, doctors, and developers by <strong>Ashley Mathias</strong>
+</p>
+
+
 
