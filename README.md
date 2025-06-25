@@ -9,7 +9,7 @@
 
 **SurgiGuide** is a lightweight Retrieval-Augmented Generation (RAG) assistant that answers surgical and medical queries by retrieving information from a local PDF (e.g., instruction manuals, medical guides). It uses LangChain with Sentence Transformers for chunk embedding, ChromaDB for vector storage, and FLAN-T5 as the generative model.
 
-![Surgiguide Screenshot](Screenshot.png)
+![Surgiguide Screenshot](Genai_architectural-model.jpg)
 ---
 
 ## 🚀 Features
