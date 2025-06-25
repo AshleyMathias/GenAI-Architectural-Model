@@ -75,5 +75,7 @@ Abdominal surgery is a procedure involving the abdominal cavity. It includes ope
 git clone https://github.com/yourusername/surgiguide.git
 cd surgiguide
 pip install -r requirements.txt
+
+⚠️ Ensure Instructions.pdf is present in the root directory before running.
 ```
 
