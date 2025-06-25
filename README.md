@@ -79,3 +79,20 @@ pip install -r requirements.txt
 ⚠️ Ensure Instructions.pdf is present in the root directory before running.
 ```
 
+---
+
+## ▶️ Run the Application
+
+```bash
+python genai_model4.py
+
+To exit, type: exit or quit.
+```
+
+## 🔧 Dependencies
+
+```bash
+pip install langchain pymupdf transformers sentence-transformers chromadb
+```
+
+
